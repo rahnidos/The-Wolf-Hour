@@ -1,0 +1,1 @@
+Tu trzeba wrzucić opis i skrót dziedzictwa
