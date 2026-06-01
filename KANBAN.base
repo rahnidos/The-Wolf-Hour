@@ -1,0 +1,39 @@
+views:
+  - type: kanban-view
+    name: Tabela
+    filters:
+      and:
+        - file.folder == "_wrk"
+        - file.folder != "_wrk/arch"
+        - category == ["wrk"]
+        - "!status.isEmpty()"
+    order:
+      - file.name
+      - status_dsc
+      - file.mtime
+    columnOrders:
+      file.file:
+        - KANBAN.base
+        - LICENSE
+        - ReadMe.md
+        - Szkic Zarys - pl.md
+        - _tmpl/ability.md
+        - _tmpl/wrk.md
+        - _wrk/ogarnąć szkic.md
+        - abilities/_opis.md
+      note.status:
+        - Backlog
+        - ToDo / Wait
+        - InProgress
+        - Done
+    cardOrders:
+      file.file: {}
+      note.status: {}
+    columnColors:
+      file.file: {}
+      note.status:
+        InProgress: orange
+        ToDo / Wait: red
+        Done: green
+        Backlog: pink
+    groupByProperty: note.status
