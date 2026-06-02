@@ -9,6 +9,7 @@ Oagrnąć szkić i środowisko na tyle, żeby ktoś kto ewentualnie dojdzie do p
 
 ## LNK
 [[_organizacyjnie]]
+[[_zarys świata]]
 ## WRK
 
 ## TSK
