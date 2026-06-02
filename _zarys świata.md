@@ -1,8 +1,15 @@
 
 ## Świat przed katastrofą
-Świat przed katastrofą, to najbardziej rozwinięty technologicznie i cywilizacyjnie świat jaki można sobie wyobrazić. Dziś oczywiście nikt nie pamięta jak wyglądał, ale funkcjonuje na jego temat mnóstwo legend i mitów. Wspaniałość przeszłego świata odbija się też oczywiście w pozostałościach. 
+Świat przed katastrofą, to najbardziej rozwinięty technologicznie i cywilizacyjnie świat jaki można sobie wyobrazić. Dziś oczywiście nikt nie pamięta jak wyglądał, ale funkcjonuje na jego temat mnóstwo legend i mitów. Wspaniałość przeszłego świata odbija się też oczywiście w pozostałościach, artefaktach oraz tym że część tych rzeczy nadal działa.
 ## Katastrofa
-
+W najlepszym z możliwych światów w najlepszym z możliwych momentów przychodzi klęska i mrok. Część ludzi mówiła, że to kara za pychę ludzką i przyrównanie się do bogów. Część mówi o jakich mrocznych przedwiecznych siłach, które przyszły zniszczyć ludzkość. Jeszcze inni mówią, że to naturalna kolej rzeczy. Nikt nie pamięta jak zaczęła się katastrofa i dlaczego. Zresztą wszędzie wyglądała inaczej. Gdzieś były to ogromne potwory, gdzieś bunt maszyn, wirus, sztuczna inteligencja, pandemia czy cokolwiek innego. Były też miejsca gdzie wystąpiło wszytko na raz. To coś objęło cały ludzki wszechświat w bardzo krótkim czasie i doprowadziło ludzkość do updaku.
 ## Noc światów
+Przeżyli naprawdę nieliczni, a ci którzy przeżyli może woleliby umrzeć. Ludzie koczowali przez długie lata w schronach, podziemnych bunkrach, czy gdzie im się akurat udało schować. Dookoła szalało zło i cały wszechświat zalał się mrokiem. Przeżyli nieliczni w bardzo niewielu ośrodkach. Chowając się ludzie skupili się tylko na tym by przetrwać. Prawie cała wiedza i doświadczenie cywilizacyjne przepadło. Nie wiadomo do końca ile trwała noc światów. Zdążyły się wymienić co najmniej trzy pokolenia. Stary świat ludzie znają tylko z opowieści
 
 ## Godzina wilka
+Najgorsze koszmary przemineky. Na horyzoncie widać widać świt ludzkości. Ludzie wyszli zaczynają odbudowywać. Zanim jednak dojście do odrodzenia, w godzinie wilka, demony i potwory są jeszcze bardzo silne a niejednokrotnie dorównują im odbudowujący świat ludzie. W godzinie wilka, można nadal spotkać przerażające potwory, zbuntowane maszyny, wirusy, straszne kulty i inne elementy horroru. Można też spotkać jednak życzliwych, próbujących odbudować cywilizację ludzi. 
+Skupiska ludzi są od siebie oddalone i nie utrzymują regularnej komunikacji, co prowadzi do powstawania lokalnych kultur, kultów oraz dziwnych, a nawet przerażających zwyczajów. Ludzkość, świadomie lub nie, odchodzi też od technologii. Część ośrodków na terraformowanych planetach powróciła do rolnictwa i życia przypominającego ziemskie średniowiecze.
+Jakaś część ludzkości nadal lata między światami. Ci, którzy mieli szczęście przetrwać w pobliżu centrów cywilizacyjnych potrafili uruchomić działające jeszcze statki. Używają ich do handlu, wymiany informacji oraz oczywiście walki i zniszczenia. 
+
+## Inspiracje
+Moje inspiracje do tego settingu to „Traveller: New Era", „Fundacja" Asimova, „Elite Dangerous", „Nemesis" (setting do Savage Worlds) oraz „Nova" (autorski świat najpierw do Real GF, potem do Savage Worlds). Te inspiracje będą pewnie widoczne, dlatego o nich wspominam i nie zamierzam ich ukrywać.

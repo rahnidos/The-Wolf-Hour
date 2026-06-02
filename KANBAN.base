@@ -28,7 +28,13 @@ views:
         - Done
     cardOrders:
       file.file: {}
-      note.status: {}
+      note.status:
+        Backlog:
+          - _wrk/wstęp do dziedzictw.md
+          - _wrk/wstęp do klas.md
+        ToDo / Wait:
+          - _wrk/wstęp do abilitek.md
+          - _wrk/wstęp do domen.md
     columnColors:
       file.file: {}
       note.status:
