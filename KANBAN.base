@@ -34,7 +34,13 @@ views:
           - _wrk/wstęp do klas.md
         ToDo / Wait:
           - _wrk/wstęp do abilitek.md
+          - _wrk/wstęp do klas.md
           - _wrk/wstęp do domen.md
+        InProgress:
+          - _wrk/wstęp do domen.md
+        Done:
+          - _wrk/ogarnąć szkic.md
+          - _wrk/wstęp do dziedzictw.md
     columnColors:
       file.file: {}
       note.status:
