@@ -1,6 +1,7 @@
 ---
 category:
-  - ability
 lang:
+status:
+who:
 ---
 # {{title}}

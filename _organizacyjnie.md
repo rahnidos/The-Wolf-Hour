@@ -5,3 +5,8 @@ Wszystkie pliki settingu muszą mieć atrubut lang ustawiony
 ## org
 pliki zaczynające się od _ to pliki robocze i wylecą z ostatecznej wersji
 
+## kolejność - plan
+zaczynamy w takiej kolejności jak się robi postać. od klas i dalej w dół w międzyczasie tworząc puste notki czy inne hooki dla rzeczy które trzeba dopisać później
+
+
+

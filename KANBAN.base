@@ -1,15 +1,17 @@
+properties:
+  file.mtime:
+    displayName: mod
 views:
   - type: kanban-view
     name: Tabela
     filters:
       and:
-        - file.folder == "_wrk"
         - file.folder != "_wrk/arch"
-        - category == ["wrk"]
+        - category.contains("wrk")
         - "!status.isEmpty()"
     order:
-      - file.name
       - status_dsc
+      - who
       - file.mtime
     columnOrders:
       file.file:
@@ -33,14 +35,14 @@ views:
           - _wrk/wstęp do dziedzictw.md
           - _wrk/wstęp do klas.md
         ToDo / Wait:
-          - _wrk/wstęp do abilitek.md
-          - _wrk/wstęp do klas.md
-          - _wrk/wstęp do domen.md
+          - _wrk/lista abilitek.md
+          - _wrk/lista domen.md
         InProgress:
-          - _wrk/wstęp do domen.md
+          - world/Galaktyka.md
         Done:
           - _wrk/ogarnąć szkic.md
           - _wrk/wstęp do dziedzictw.md
+          - _wrk/wstęp do klas.md
     columnColors:
       file.file: {}
       note.status:

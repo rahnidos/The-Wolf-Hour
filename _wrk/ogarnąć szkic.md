@@ -3,6 +3,7 @@ category:
   - wrk
 status: Done
 status_dsc:
+who: rhnn
 ---
 ## DSC
 Oagrnąć szkić i środowisko na tyle, żeby ktoś kto ewentualnie dojdzie do projektu wiedział gdzie zacząć i o co chodzi
