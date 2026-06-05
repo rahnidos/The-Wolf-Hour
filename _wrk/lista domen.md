@@ -1,6 +1,7 @@
 ---
 category:
   - wrk
-status: InProgress
+status: ToDo / Wait
 status_dsc:
+who: rhnn
 ---
