@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "category": "multitext",
-    "lang": "multitext"
+    "lang": "multitext",
+    "content status": "multitext"
   }
 }
