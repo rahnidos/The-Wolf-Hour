@@ -8,7 +8,7 @@ status_dsc:
 Trzeba napisać więcej o starym świecie. Nie jakoś szczególnie dużo, ale wyjaśnić system ekonomiczno-społeczny. Opis może też być inspiracją dla MG. 
 ## LNK
 [[Stary Świat]]
-[[The Old World]]
+[[Old World]]
 
 ## WRK
 
