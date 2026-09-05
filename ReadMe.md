@@ -4,10 +4,10 @@ This is a work-in-progress (WIP) project to create a Sci-Fi Post-Apocalyptic set
 
 ## World Lore
 
-- [Introduction](app://obsidian.md/world/Introduction.md) – An overview of the Wolf Hour and the role of the players.
-- [The Old World](world/Old World.md) – The pinnacle of human civilization before the fall.
-- [The Night](world/The Night.md) – The era of horror, isolation, and the collapse of history.
-- [The Wolf Hour](world/Wolf Hour.md) – The present day: a world of fragile hope, scavengers, and technotheology.
-- [The Galaxy Today](The%20Galaxy%20Today.md) - 
-- [Ships & Navigation](app://obsidian.md/world/Ships.md) – Hyperspace travel, the dangers of feral AI, and the art of Astrogation.
+- [Introduction](world/Introduction.md)– An overview of the Wolf Hour and the role of the players.
+- [[Old World](world/Old%20World.md)] The pinnacle of human civilization before the fall.
+- [The Night](world/The%20Night.md) The era of horror, isolation, and the collapse of history.
+- [The Wolf Hour](world/The%20Wolf%20Hour.md)– The present day: a world of fragile hope, scavengers, and technotheology.
+- [The Galaxy Today](world/The%20Galaxy%20Today.md)- 
+- [Traveling](world/Traveling.md)– Hyperspace travel, the dangers of feral AI, and the art of Astrogation.
 
