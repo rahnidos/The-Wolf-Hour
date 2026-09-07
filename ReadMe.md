@@ -11,3 +11,12 @@ This is a work-in-progress (WIP) project to create a Sci-Fi Post-Apocalyptic set
 - [The Galaxy Today](world/The%20Galaxy%20Today.md)- 
 - [Traveling](world/Traveling.md)– Hyperspace travel, the dangers of feral AI, and the art of Astrogation.
 
+## Clases
+[The Combatant](classes/The%20Combatant.md)
+[The Medic](classes/The%20Medic.md)
+[The Mystic](classes/The%20Mystic.md)
+[The Operator](classes/The%20Operator.md)
+[The Salvager](classes/The%20Salvager.md)
+[The Techwright](classes/The%20Techwright.md)
+[The Voidfarer](classes/The%20Voidfarer.md)
+[The Warden](classes/The%20Warden.md)
